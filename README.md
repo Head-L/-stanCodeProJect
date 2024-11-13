@@ -1,6 +1,6 @@
 # -stanCodeProJect
 Hello!\
-This repository holds my programming projects done period if stanCode course.
+This repository holds my programming projects done period of stanCode course.
 
 Watch my [demo_video]()
 
